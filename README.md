@@ -1,4 +1,4 @@
-# ipsweep : Just a Rather "Normal" project
+# IP-Sweep : Just a Rather "Normal" project
 
 This is a mini project, that sweeps up all the IP address in :
 ~~~
