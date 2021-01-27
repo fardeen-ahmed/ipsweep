@@ -1,4 +1,4 @@
-# ipsweep : Just a Rather "Normal" project
+# IP-Sweep : Just a Rather "Normal" project
 <a href="#">
   <img src="https://github.com/fardeen-ahmed/ipsweeper/blob/main/IP-Sweep.png" alt="None" align="center" height="100" width="1000">
 </a>
