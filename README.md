@@ -3,7 +3,7 @@
   <img src="https://github.com/fardeen-ahmed/ipsweeper/blob/main/IP-Sweep.png" alt="None" align="center" height="100" width="1000">
 </a>
 
-## This is a mini project, that sweeps up all the IP address in :
+## This is a mini project, that enumerates all the IP address in a range i.e:
 ~~~
 1) Whole IP-Address in a Range (For Example : from 192.168.0.1 to the last ip)
 2) IP Address Range in a Network
